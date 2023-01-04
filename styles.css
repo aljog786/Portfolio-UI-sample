@@ -1,0 +1,28 @@
+body{
+    font-family: 'Jost', sans-serif;
+   }
+   #divSM>h5{
+    width:fit-content;
+   }
+   .fst-italic{
+    font-weight: 500;
+      font-size: 20px;
+   }
+   .aboutMe{
+    font-size: 24px;
+    font-weight: 300;
+   }
+   .subHead{
+    font-size: 25px;
+   }
+   @media screen and (min-width:1023px) {
+    .fst-italic{
+     font-size: 40px;
+    }
+    .aboutMe{
+        font-size: 36px;
+       }
+       .subHead{
+        font-size: 45px;
+       }
+   }
